@@ -10,4 +10,5 @@ python generate.py
 We need after `Generated CraftTweaker Shapeless Script:`'s content is zenscript, Please copy.  
 We create new `zs` file, paste script content.  
 If you not Installed `CraftTweaker` `ContentTweaker` `B.A.S.E` and `Just Enough Items`, Please install.  
-We need copy project's two zs to `scripts` folder.If not have.please create.
+We need copy project's two zs to `scripts` folder.If not have.please create.  
+Extract `resources.zip` to Game Root Directory.

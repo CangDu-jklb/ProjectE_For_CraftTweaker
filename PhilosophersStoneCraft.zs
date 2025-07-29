@@ -1,0 +1,1 @@
+recipes.addShapeless(<contenttweaker:philosophers_stone>,[<minecraft:redstone>,<minecraft:iron_ingot>])
